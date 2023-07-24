@@ -1,0 +1,33 @@
+.hero-image {
+    /* background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/1c/4a/61/3d/melati-restaurant.jpg"); */
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .hero-image2 {
+    /* background-image: url("https://pingpoint.co.id/media/images/6_MMZypef.original.jpg"); */
+    background-color: #f0bf45;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .hero-image3 {
+    /* background-image: url("https://www.linovhr.com/wp-content/uploads/2020/09/kepuasan-pelanggan.jpg"); */
+    background-color: #f7e6b3;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .produk{
+    height: 56vh;
+    /* object-fit: cover; */
+  }
